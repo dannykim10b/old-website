@@ -5,4 +5,4 @@ title: Sudoku Solver
 
 A Sudoku Solver/Generator made with React
 
-try it here
+Play Sudoku [here](https://dannys-sudoku-app.herokuapp.com/)
